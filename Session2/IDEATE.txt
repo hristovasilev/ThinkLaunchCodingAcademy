@@ -1,0 +1,23 @@
+(ideate.md)
+
+# Design Challenges:
+## Problem statement 1
+-what I should address?
+-not enough cookies
+
+## Solution:
+-buid more cookie factories
+-make your own cookies
+-get rid of cookie moster
+
+Constraints:
+-baking takes time
+-alergies
+-budget
+
+Context:
+-cookies are dessert
+-cookies make people happy
+
+
+

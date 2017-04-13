@@ -1,6 +1,9 @@
 
-Segment
+Segment 
 Who wants cheaper tickets?
+
+Direct users:
+
 students
 low income people
 seniors
